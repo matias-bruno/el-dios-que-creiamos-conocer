@@ -1,15 +1,7 @@
 # El Dios que creíamos conocer — edición en español
 
 Sitio web estático para leer la traducción al español de *The God We Thought We Knew*, de Christian Chidubem Edward-Ngwu.
-
-## Publicar con GitHub Pages
-
-1. Crea un repositorio en GitHub, por ejemplo `el-dios-que-creiamos-conocer`.
-2. Descomprime este paquete y sube **los tres archivos de esta carpeta** a la raíz del repositorio: `index.html`, `.nojekyll` y `README.md`.
-3. En el repositorio, entra en **Settings → Pages**.
-4. En **Build and deployment**, elige **Deploy from a branch**.
-5. Selecciona la rama `main` y la carpeta `/ (root)`, y guarda.
-6. GitHub mostrará la dirección del sitio cuando termine la publicación.
+Leer el libro original en Inglés [aquí](https://book.theglorylightcommunity.org/)
 
 ## Sobre el sitio
 
